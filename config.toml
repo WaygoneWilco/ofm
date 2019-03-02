@@ -132,7 +132,7 @@ googleAnalytics = ""
         icon_pack = "fas"
         accent = "1"
         title = "Shop"
-        text = "Buy directly from our local community."
+        text = "Buy directly from our local producers."
 
       [[params.landing.feature_icons.tile]]
         icon = "fa-hands-helping"
@@ -153,7 +153,7 @@ googleAnalytics = ""
         icon_pack = "fas"
         accent = "3"
         title = "Support"
-        text = "Your family, local farmers, producers and our downtown."
+        text = "Your family, local farmers, producers and our downtown neighborhood."
 
     [params.landing.feature_images]
       #These feature images look best if there's an even number of them.
